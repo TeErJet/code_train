@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: #E06969;
 }
 
 header {
@@ -58,9 +59,38 @@ p {
 }
 
 article {
-    background-color: white;
-    padding: ;
+    padding: 10px;
     width: 400px;
+    align-items: center;
+    background-color: #E06969;
+}
+
+.article1 {
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: auto;
+}
+
+.article2 {
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: auto;
+}
+
+.article3 {
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: auto;
+}
+
+.article4 {
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: auto;
 }
 
 .article-but {
@@ -73,9 +103,9 @@ article {
 }
 
 footer {
-    background-color: white;
+    background-color: #AC13A6;
     padding: ;
-    display: flex
+    display: flex;
     margin: 15px 0px 15px 15px;
 }
 
