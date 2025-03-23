@@ -3,6 +3,10 @@ body {
     background-color: #E06969;
 }
 
+img header{
+    width: 150px;
+}
+
 header {
     justify-content: space-between;
     padding: 15px;
